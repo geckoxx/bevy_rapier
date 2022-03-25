@@ -11,3 +11,4 @@ codegen-units = 1
 #parry3d = { path = "../parry/build/parry3d" }
 #rapier2d = { path = "../rapier/build/rapier2d" }
 #rapier3d = { path = "../rapier/build/rapier3d" }
+bevy = { git = "https://github.com/geckoxx/bevy", branch = "mona" }
